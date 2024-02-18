@@ -10,4 +10,4 @@ In the pin section we marked our repositories that represents the whole ecosyste
 - *findmypet-image-recognition*
 Here is the arhitectural diagram of those 3 repositories:
 
-![diagram](Arhitectural_FindMyPet_Diagram.png)
+![diagram](https://github.com/FindMyPetOrg/.github/blob/main/profile/Arhitectural_FindMyPet_Diagram.png)
