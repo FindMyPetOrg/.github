@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-<!--
+### About FindMyPet
+FindMyPet is a kind of **social network** were users can post lost animals for owners that are in search of their beloved pet. This application represents a good cause for people with such needs or volunterees that are willing to minimize the number of stray pets.
 
-**Here are some ideas to get you started:**
+### Repositories
+In the pin section we marked our repositories that represents the whole ecosystem.
+- *findmypet-backend*
+- *findmypet-frontend*
+- *findmypet-image-recognition*
+Here is the arhitectural diagram of those 3 repositories:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
